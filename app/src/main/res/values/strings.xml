@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">attemping_class_activity_2</string>
+    <string name="button_search">Go!</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="searchView_search">Enter city name</string>
+
+
+</resources>
